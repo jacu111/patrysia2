@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+h1 {
+  font: size 3rem;
+  text-transform: uppercase;
+}
+
+.Patrycja1 {
+  width: 100%;
+  border: 5px solid black;
+}
+
+.frame {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
+
+.Patrysia2 {
+  width: 100%;
+  border: 10px solid white;
+}
+
+.frame2 {
+  text-align: center;
+  width: 50%;
+  margin-top: 100px;
+  color: bisque;
+  margin-left: 25%;
+}
+.Patrysia3 {
+  width: 45%;
+  border: 20px solid grey;
+}
+
+.frame3 {
+  background-color:black;
+  color: beige;
+  text-align: center;
+  margin-top: 50px;
+  width: 70%;
+  margin-left: 16%;
+}
